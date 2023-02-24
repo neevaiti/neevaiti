@@ -1,5 +1,5 @@
 <h1 align="center">Kia Ora 👋 I'm Ne'evaiti</h1>
-<h3 align="center">Self-taught developer in training at Simplon HDF.</h3>
+<h3 align="center">Self-taught developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neevaiti&label=Profile%20views&color=0e75b6&style=flat" alt="neevaiti" /> </p>
 
