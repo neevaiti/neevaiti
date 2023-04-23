@@ -2,7 +2,7 @@
 
 <h3 align="center">French self-taught developer in AI at Simplon Lille.</h3>
 
-![Animated image](https://tenor.com/fr/view/chess-chesscom-candidates-chess-gif-chess-funny-gif-26163838)
+![Animated image](https://media.tenor.com/C1ngPZnxic4AAAAC/chess-chesscom.gif)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
