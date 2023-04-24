@@ -12,7 +12,7 @@ I am looking for an internship in the field of Data and AI, ideally as a Data En
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antonin-l-96bb84261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonin-l-96bb84261/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/antonin-l-96bb84261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Logo lien Linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
