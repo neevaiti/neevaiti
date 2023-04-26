@@ -2,9 +2,6 @@
 
 <h3 align="center">French self-taught developer in AI at Simplon Lille.</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/C1ngPZnxic4AAAAC/chess-chesscom.gif" />
-</p>
 
 <h3 align="center">About me</h3>
 <p align="justify">Passionate and curious, I awakened my passion for computer science at a very young age. I recently decided to enter the world of development and specialise in Data and Artificial Intelligence. Having started as a self-taught person, I am currently training at the Simplon school to strengthen my skills and professionalize myself in this exciting field.
