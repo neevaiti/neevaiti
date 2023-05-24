@@ -2,6 +2,8 @@
 
 <h3 align="center">French self-taught developer in AI at Simplon Lille.</h3>
 
+![Snake animation](https://github.com/neevaiti/neevaiti/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="center">About me</h3>
 <p align="justify">Passionate and curious, I awakened my passion for the Tech at a very young age. I recently decided to enter the world of development and specialise in Data and Artificial Intelligence. Having started as a self-taught person, I am currently training at the Simplon school to strengthen my skills and professionalize myself in this exciting field.
