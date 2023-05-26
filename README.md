@@ -4,7 +4,7 @@
 
 <h3 align="center">💬 About me:</h3>
 <p align="justify">Passionate and curious, I awakened my passion for the Tech at a very young age. I recently decided to enter the world of development and specialise in Data and Artificial Intelligence. Having started as a self-taught person, I am currently training at the Simplon school to strengthen my skills and professionalize myself in this exciting field.
-I am looking for an internship in the field of Data and AI, ideally as a Data Engineer, Web or Data Analyst.</p>
+I am looking for an apprenticeship in Data and Artificial Intelligence.</p>
 
 <h3 align="center">🛜 Connect with me:</h3>
 <p align="center">
