@@ -10,6 +10,7 @@ I am looking for an apprenticeship in Data and Artificial Intelligence.</p>
 ## 🧩 Interests:
 <ul>
   <li>♟️ - Chess</li>
+  <li>🏋️ - Fitness</li>
   <li>✍ - Poet</li>
   <li>📖 - Reading</li>
   <li>🎤 - Singing</li>
