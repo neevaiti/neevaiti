@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Antonin.
 
-<h3 align="center">French self-taught developer in AI at Simplon Lille.</h3>
+<h3 align="center">French self-taught developer in AI.</h3>
 
 ## 💬 About me:
-<p align="justify">Passionate and curious, I awakened my passion for the Tech at a very young age. I recently decided to enter the world of development and specialise in Data and Artificial Intelligence. Having started as a self-taught person, I am currently training at the Simplon school to strengthen my skills and professionalize myself in this exciting field.
-I am looking for an apprenticeship in Data and Artificial Intelligence.</p>
+<p align="justify">Passionate and curious, I awakened my passion for the Tech at a very young age. I recently decided to enter the world of development and specialise in Data and Artificial Intelligence.</p>
 
 
 ## 🧩 Interests:
@@ -15,13 +14,6 @@ I am looking for an apprenticeship in Data and Artificial Intelligence.</p>
   <li>📖 - Reading</li>
   <li>🎤 - Singing</li>
 </ul>
-
-
-## 🛜 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/antonin-l-96bb84261/" target="blank">Linkedin</a>
-</p>
-
 
 ## 🖥️ Languages and Tools:
 
