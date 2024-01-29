@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antonin.
+# 👋 Ia ora na, I'm Ne'evaiti
 
 <h3 align="center">French self-taught developer in AI.</h3>
 
