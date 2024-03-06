@@ -1,6 +1,5 @@
 # 👋 Ia ora na, I'm Ne'evaiti
 <img align="right" width="200" src="https://github.com/neevaiti/animated-logo/blob/main/chameleon.svg">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neevaiti&show_icons=true&locale=en&layout=compact" alt="neevaiti" /></p>
 <p>Passionate and curious about Data and Artificial Intelligence. And Docker!</p>
 
 
@@ -10,6 +9,8 @@
   <li>✍ - Poet</li>
   <li>📖 - Reading</li>
 </ul>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neevaiti&show_icons=true&locale=en&layout=compact" alt="neevaiti" /></p>
 
 ### 🖥️ Languages and Tools:
 
