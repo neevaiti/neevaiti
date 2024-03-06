@@ -1,18 +1,16 @@
 # 👋 Ia ora na, I'm Ne'evaiti
+<img align="right" width="200" src="https://github.com/neevaiti/animated-logo/blob/main/chameleon.svg">
 
-<h3 align="center">French self-taught developer in AI.</h3>
 
 ## 💬 About me:
-<p align="justify">Passionate and curious, I awakened my passion for the Tech at a very young age. I recently decided to enter the world of development and specialise in Data and Artificial Intelligence.</p>
+<p align="justify">Passionate and curious about Data and Artificial Intelligence. And Docker!</p>
 
 
 ## 🧩 Interests:
 <ul>
   <li>♟️ - Chess</li>
-  <li>🏋️ - Fitness</li>
   <li>✍ - Poet</li>
   <li>📖 - Reading</li>
-  <li>🎤 - Singing</li>
 </ul>
 
 ## 🖥️ Languages and Tools:
